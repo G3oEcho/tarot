@@ -68,7 +68,7 @@ $(document).ready(function() {
         //开始
         num = Math.floor(Math.random() * 22);
         n = Math.floor(Math.random() * 2);
-        var newBcg = "./img/" + num + ".jpg"
+        var newBcg = "./tarot/img/" + num + ".jpg"
             // console.log(num);
             // console.log(newBcg);
             // console.log(n);
